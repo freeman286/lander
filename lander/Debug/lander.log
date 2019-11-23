@@ -2,4 +2,7 @@
 c:\users\joel\documents\lander\lander.cpp(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\joel\documents\lander\lander.cpp(16): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\joel\documents\lander\lander.cpp(17): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joel\documents\lander\lander.cpp(33): warning C4101: 'f_thrust': unreferenced local variable
+c:\users\joel\documents\lander\lander.cpp(34): warning C4101: 'F_thrust': unreferenced local variable
+c:\users\joel\documents\lander\lander.cpp(35): warning C4101: 'r': unreferenced local variable
   lander.vcxproj -> C:\Users\Joel\source\repos\lander\Debug\lander.exe
